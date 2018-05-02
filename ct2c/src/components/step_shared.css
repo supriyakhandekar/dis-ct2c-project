@@ -1,0 +1,80 @@
+
+.text-style {
+
+  font-family: 'Abel', sans-serif;
+  font-size: 15px;
+
+}
+
+.confirmation-page-text {
+  font-size: 45px;
+  margin-left: 30px;
+  align-items: flex-start;
+  display: flex;
+  color: white;
+}
+
+
+.step-header {
+
+  font-family: 'Abel', sans-serif;
+  background-color: white;
+  opacity: 2;
+  font-size: 45px;
+  display: flex;
+  height: 100px;
+  flex-direction: row;
+
+}
+
+.magnifying-glass {
+  height: 35px;
+  width: 35px;
+  background-image: url("../images/magnifying-glass.jpg");
+  background-size: cover;
+}
+
+.step_number {
+  margin: 15px;
+  background-color: #81b731;
+  height: 65px;
+  width: 65px;
+  display: flex;
+  justify-content: center;
+}
+
+.step_description_component{
+
+  margin-left: 65px;
+  margin-top: 25px;
+  font-size: 35px;
+
+}
+
+.checkbox-style {
+
+  height: 70px;
+  display: flex;
+  margin-top: 20px;
+  margin-left: 40px;
+  justify-content: center;
+}
+
+.select-all-box {
+
+  font-size: 20px;
+  margin-left: 100px;
+  margin-top: 40px;
+
+}
+.step_body {
+
+  display: flex;
+  width: 700px;
+  margin: 40px 40px 40px 40px;
+  color: white;
+  height:inherit;
+
+  flex-direction: column;
+
+}
